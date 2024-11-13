@@ -143,7 +143,7 @@ body {
 </head>
 <body>
 
-<a href="https://camiloduvane.github.io/Orgranograma/" class="back-button">← Voltar</a>
+<a href="https://camiloduvane.github.io/DMTT/" class="back-button">← Voltar</a>
 
 <div class="org-chart">
   <div class="level">
