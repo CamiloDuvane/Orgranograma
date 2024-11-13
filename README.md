@@ -1,4 +1,4 @@
-<html><head><base href="/" />
+<html><head><base href="https://camiloduvane.github.io/Orgranograma/" />
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Organograma DMTT</title>
@@ -143,13 +143,13 @@ body {
 </head>
 <body>
 
-<a href="https://dmtt.co.mz" class="back-button">← Voltar</a>
+<a href="https://camiloduvane.github.io/Orgranograma/" class="back-button">← Voltar</a>
 
 <div class="org-chart">
   <div class="level">
     <div class="box" onclick="showDetails(this)">
       <div class="avatar">
-        <img alt="headshot photo of Fernando Uache, professional style" src="fernando-uache.jpg" width="100" height="100">
+        <img alt="headshot photo of Fernando Uache, professional style" src="fernandouache.jpg" width="100" height="100">
       </div>
       <div class="name">Fernando Uache</div>
       <div class="position">Vereador</div>
@@ -163,7 +163,7 @@ body {
   <div class="level">
     <div class="box" onclick="showDetails(this)">
       <div class="avatar">
-        <img alt="headshot photo of Nelson Massango, professional style" src="nelson-massango.jpg" width="100" height="100">
+        <img alt="headshot photo of Nelson Massango, professional style" src="nelsonmassango.jpg" width="100" height="100">
       </div>
       <div class="name">Nelson Massango</div>
       <div class="position">Director</div>
@@ -177,7 +177,7 @@ body {
   <div class="level">
     <div class="box" onclick="showDetails(this)">
       <div class="avatar">
-        <img alt="headshot photo of Carlos Vilanculos, professional style" src="carlos-vilanculos.jpg" width="100" height="100">
+        <img alt="headshot photo of Carlos Vilanculos, professional style" src="carlosvilanculos.jpg" width="100" height="100">
       </div>
       <div class="name">Carlos Vilanculos</div>
       <div class="position">DARHF</div>
@@ -189,7 +189,7 @@ body {
     
     <div class="box" onclick="showDetails(this)">
       <div class="avatar">
-        <img alt="headshot photo of Amilton Tembe, professional style" src="amilton-tembe.jpg" width="100" height="100">
+        <img alt="headshot photo of Amilton Tembe, professional style" src="amiltontembe.jpg" width="100" height="100">
       </div>
       <div class="name">Amilton Tembe</div>
       <div class="position">DL</div>
@@ -201,7 +201,7 @@ body {
 
     <div class="box" onclick="showDetails(this)">
       <div class="avatar">
-        <img alt="headshot photo of Vasco Nhaquila, professional style" src="vasco-nhaquila.jpg" width="100" height="100">
+        <img alt="headshot photo of Vasco Nhaquila, professional style" src="vasconhaquila.jpg" width="100" height="100">
       </div>
       <div class="name">Vasco Nhaquila</div>
       <div class="position">DTP</div>
