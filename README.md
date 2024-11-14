@@ -154,7 +154,7 @@ body {
       <div class="name">Fernando Uache</div>
       <div class="position">Vereador</div>
       <div class="contact-info">
-        Email: fernando.uache@CamiloDuvane.com<br>
+        Email:fernando.uache@CamiloDuvane.com<br>
         Tel: (258) 84 000 0000
       </div>
     </div>
@@ -168,7 +168,8 @@ body {
       <div class="name">Nelson Massango</div>
       <div class="position">Director</div>
       <div class="contact-info">
-        Email: nelson.massangos@CamiloDuvane.com<br>
+        Email:
+nelson.massangos@CamiloDuvane.com<br>
         Tel: (258) 84 000 0000
       </div>
     </div>
@@ -181,6 +182,7 @@ body {
       </div>
       <div class="name">Carlos Vilanculos</div>
       <div class="position">DARHF</div>
+      <div class="position">Departamento de Administração de Recursos Humanos e Finanças</div>
       <div class="contact-info">
         Email: carlos.vilanculos@CamiloDuvane.com<br>
         Tel: (258) 84 000 0000
@@ -193,6 +195,7 @@ body {
       </div>
       <div class="name">Amilton Tembe</div>
       <div class="position">DL</div>
+      <div class="position">Departamento de Licenciamento</div>
       <div class="contact-info">
         Email: hamilton.tembe@CamiloDuvane.com<br>
         Tel: (258) 84 000 0000
@@ -205,6 +208,7 @@ body {
       </div>
       <div class="name">Vasco Nhaquila</div>
       <div class="position">DTP</div>
+      <div class="position">Departamento de Transportes Públicos</div>
       <div class="contact-info">
         Email: vasco.nhaquila@CamiloDuvane.com<br>
         Tel: (258) 84 000 0000
@@ -217,6 +221,7 @@ body {
       </div>
       <div class="name">Baltazar Hilario</div>
       <div class="position">DOT</div>
+      <div class="position">Departamento de Operações e Trânsito</div>
       <div class="contact-info">
         Email: baltazar.hilario@CamiloDuvane.com<br>
         Tel: (258) 84 000 0000
