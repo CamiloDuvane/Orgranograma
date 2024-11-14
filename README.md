@@ -154,8 +154,8 @@ body {
       <div class="name">Fernando Uache</div>
       <div class="position">Vereador</div>
       <div class="contact-info">
-        Email: joao.silva@empresa.com<br>
-        Tel: (11) 99999-9999
+        Email: fernando.uache@CamiloDuvane.com<br>
+        Tel: (258) 84 000 0000
       </div>
     </div>
   </div>
@@ -168,8 +168,8 @@ body {
       <div class="name">Nelson Massango</div>
       <div class="position">Director</div>
       <div class="contact-info">
-        Email: maria.santos@empresa.com<br>
-        Tel: (11) 98888-8888
+        Email: nelson.massangos@CamiloDuvane.com<br>
+        Tel: (258) 84 000 0000
       </div>
     </div>
   </div>
@@ -182,8 +182,8 @@ body {
       <div class="name">Carlos Vilanculos</div>
       <div class="position">DARHF</div>
       <div class="contact-info">
-        Email: ana.pereira@empresa.com<br>
-        Tel: (11) 96666-6666
+        Email: carlos.vilanculos@CamiloDuvane.com<br>
+        Tel: (258) 84 000 0000
       </div>
     </div>
     
@@ -194,8 +194,8 @@ body {
       <div class="name">Amilton Tembe</div>
       <div class="position">DL</div>
       <div class="contact-info">
-        Email: carlos.oliveira@empresa.com<br>
-        Tel: (11) 97777-7777
+        Email: hamilton.tembe@CamiloDuvane.com<br>
+        Tel: (258) 84 000 0000
       </div>
     </div>
 
@@ -206,8 +206,8 @@ body {
       <div class="name">Vasco Nhaquila</div>
       <div class="position">DTP</div>
       <div class="contact-info">
-        Email: pedro.costa@empresa.com<br>
-        Tel: (11) 95555-5555
+        Email: vasco.nhaquila@CamiloDuvane.com<br>
+        Tel: (258) 84 000 0000
       </div>
     </div>
 
@@ -218,8 +218,8 @@ body {
       <div class="name">Baltazar Hilario</div>
       <div class="position">DOT</div>
       <div class="contact-info">
-        Email: sofia.rocha@empresa.com<br>
-        Tel: (11) 94444-4444
+        Email: baltazar.hilario@CamiloDuvane.com<br>
+        Tel: (258) 84 000 0000
       </div>
     </div>
   </div>
