@@ -221,8 +221,7 @@ nelson.massangos@CamiloDuvane.com<br>
       </div>
       <div class="name">Baltazar Hilario</div>
       <div class="position">DOT</div>
-
-<div class="position">Departamento de Operações e Trânsito</div>
+      <div class="position">Departamento de Operações e Trânsito</div>
       <div class="contact-info">
         Email: baltazar.hilario@CamiloDuvane.com<br>
         Tel: (258) 84 000 0000
